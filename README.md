@@ -11,14 +11,17 @@ I made this out of curiosity. Please don't cheat in your games :P.
 
 ### How to run
 
-Install python if it is not installed
+1. Rename settings_example.py into settings.py and add all your urls here and LSS JSON file.
+
+2. Install python if it is not installed
 ``` 
 sudo apt update
 sudo apt install python3
 ```
 
-Running the code
+3. Run the code
 ```
 pip install requirements.txt
 python3 main.py
 ```
+# **=^._.^=**
