@@ -1,8 +1,8 @@
-## LongStoryShort-rolls-emulator
+## fake_longstoryshort_discord_rolls
 
 ### What is that!?
 
-This is a little script that simulates LongStoryShort dice rolls. It just send a message with greater or equal roll than you asked for. 
+This is a little script that simulates LongStoryShort dice rolls in discord. It just send a message with greater or equal roll than you asked for. 
 
 I made this out of curiosity. Please don't cheat in your games :P. 
 
